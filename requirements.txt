@@ -1,0 +1,12 @@
+# pip install SpeechRecognition pyttsx3 google-generativeai pyaudio
+# or 
+# ﻿SpeechRecognition==3.8.1
+# pyttsx3==2.90
+# google-generativeai==0.1.2
+sounddevice
+streamlit
+numpy
+google-generativeai
+requests
+scipy
+
